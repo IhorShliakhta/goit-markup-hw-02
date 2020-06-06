@@ -1,1 +1,14 @@
- 
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+}
+
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold
+}
+
+a {
+    text-decoration: none;
+
+}
